@@ -1,0 +1,4 @@
+1  Shami Burger
+2  Chicken Burger
+
+The total price of dish with tax service charge is 750
